@@ -4,9 +4,9 @@ FireLogger is a sexy PHP logger console integrated into Firebug (an alternative 
 
 <a href="http://firelogger.binaryage.com/php"><img src="http://firelogger.binaryage.com/shared/img/firelogger4php-mainshot.png"></a>
 
-## Visit [firelogger.binaryage.com](http://firelogger.binaryage.com)
+Visit [firelogger.binaryage.com](http://firelogger.binaryage.com)
 
-Kohana Module Usage:
+## Kohana Module Usage:
 
 Add to your bootstrap:
 'firelogger'  => MODPATH.'firelogger',
